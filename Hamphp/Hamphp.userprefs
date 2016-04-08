@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="Hamphp\Hamphp.Android\Hamphp.Android.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_5_API_23" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hamphp\Hamphp.Android\Properties\AndroidManifest.xml">
+    <Files>
+      <File FileName="Hamphp\Hamphp.Android\MainActivity.cs" Line="19" Column="12" />
+      <File FileName="Hamphp\Hamphp.Android\GameLayer.cs" Line="36" Column="30" />
+      <File FileName="..\..\..\..\..\..\Program Files (x86)\MSBuild\Xamarin\Android\Xamarin.Android.Common.targets" Line="1704" Column="19" />
+      <File FileName="Hamphp\Hamphp.Android\packages.config" Line="1" Column="1" />
+      <File FileName="Hamphp\Hamphp.Android\Properties\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Hamphp\Hamphp.Android\Properties\AndroidManifest.xml" Line="5" Column="12" />
+      <File FileName="Hamphp\Hamphp.Android\obj\Debug\android\manifest\AndroidManifest.xml" Line="8" Column="151" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hamphp" expanded="True">
+            <Node name="Hamphp.Android" expanded="True" selected="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Assets" expanded="True">
+                <Node name="Content" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="Hamphp.Common" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hamphp.Android AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
